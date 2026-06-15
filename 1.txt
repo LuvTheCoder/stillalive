@@ -13,6 +13,6 @@ Forth bug fixed
 
 
 fifth bug fixed
->>>>>>> hamilton
 
-2026
+2026 footer note added
+
