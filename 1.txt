@@ -2,6 +2,15 @@ one file
 
 CRITICAL BUG FIX
 
+<<<<<<< HEAD
 BREAKING BAD IS BETTER THAN STRANGER THINGS
 
 HARRY POTTER BEST WEBSERIES FOR KIDS
+=======
+One more BUG FIXED
+
+Forth bug fixed
+
+
+fifth bug fixed
+>>>>>>> hamilton
